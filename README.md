@@ -3,7 +3,9 @@
 Bem-vindo ao repositório do projeto de análise de acidentes para o Coders 2024!
 
 Projeto Script: Este notebook contém o código de análise dos dados. Nele, você encontrará a implementação das funções usadas para explorar e analisar os dados dos acidentes.
+
 Storytelling: Um pouco da visão e de como analisamos o dataset para conseguirmos criar um storytelling a partir dos dados.
+
 Dataset: Necessário salvar os arquivos na mesma pasta do programa para conseguir executar.
 
 ## Estrutura do Repositório
